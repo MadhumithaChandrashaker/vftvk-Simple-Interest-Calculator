@@ -6,6 +6,10 @@ h1{color:gray;
 font-family:Verdana
 }
 
+footer
+{
+    margin-top: 10px;
+}
 .maindiv{
     
         background-color:white;
